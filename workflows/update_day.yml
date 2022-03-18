@@ -23,7 +23,7 @@ on:
 
           const updatedDayMd = data.replace(
             /(?<=\<h2 align\=\"center\"\>)(.*)(?= \!\<\/h2\>)/gim,
-            `${message} and Happy ${day}`
+            `Happy ${day}` //`${message} and Happy ${day}`
           );
 
           console.log(`Today is ${day}`);
