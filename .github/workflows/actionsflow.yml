@@ -1,0 +1,50 @@
+name: Actionsflow
+on:
+  schedule:
+   - cron: "* * * * *"
+  push:
+    branches:
+      - main
+  repository_dispatch:
+  workflow_dispatch:
+    inputs:
+      include:
+        description: "--include: workflow file filter, you can use glob format to filter your workflows, the default value is empty value, means no filter will be using"
+        required: false
+        default: ""
+      force:
+        description: "--force: whether force to run workflow, true or false"
+        required: false
+        default: "false"
+      verbose:
+        description: "--verbose: debug workflow, true or false"
+        required: false
+        default: "false"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    concurrency: actionsflow
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Actionsflow
+        uses: actionsflow/actionsflow-action@v1
+        with:
+          args: "build --include ${{ github.event.inputs.include || ''}} -f ${{github.event.inputs.force=='true' && 'true' || 'false'}} --verbose ${{github.event.inputs.verbose=='true' && 'true' || 'false'}}"
+          json-secrets: ${{ toJSON(secrets) }}
+          json-github: ${{ toJSON(github) }}
+      - name: Setup act
+        uses: actionsflow/setup-act-for-actionsflow@v1
+      - name: Run act
+        run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1
+
+      # Commit changes
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "s16417@sci.pdn.ac.lk"
+          git config --global user.name "s16417"
+          git add -A
+          git commit -m "Updated readme" || exit 0
+          git pull --ff-only
+          git push

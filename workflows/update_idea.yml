@@ -1,0 +1,43 @@
+on:
+  script:
+    run: |
+      const fs = require('fs');
+      const https = require('https');
+
+      const url = 'https://www.boredapi.com/api/activity';
+
+      function updateReadmeIdea() {
+        // Get Ideas
+        https.get(url, (res) => {
+          res.setEncoding('utf8');
+          let body = '';
+          res.on('data', (data) => body += data);
+          res.on('end', () => {
+            body = JSON.parse(body);
+            console.log(body);
+            let message = `You know you could "<i>${body.activity}..!</i>", Just a random "<i>${body.type}</i>"`
+            console.log(message);
+
+            // Update README
+            fs.readFile('README.md', 'utf-8', (err, data) => {
+              if (err) throw err;
+
+              const updateActivityMd = data.replace(
+                /(?<=Hey!!😊\.\. )(.*)(?= activity 😉)/gim,
+                message
+              );
+
+              updateString(updateActivityMd);
+            });
+          });
+        });
+      }
+
+      function updateString(str) {
+        fs.writeFile('README.md', str, 'utf-8', (err) => {
+            if (err) throw err;
+            console.log('README line updated successfully!');
+        });
+      }
+
+      updateReadmeIdea();
