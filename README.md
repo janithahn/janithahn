@@ -13,7 +13,7 @@
 
 <br />
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=janithahn&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&include_all_commits=true" width="380 " height="180" /></a>
+<a href="#"><img align="right" src="https://github-readme-stats-janithahn.vercel.app/api?username=janithahn&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&include_all_commits=true" width="380 " height="180" /></a>
 
 ## I'm Janitha Nawarathna
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Catch up on world news..!</i>", Just a random "<i>recreational</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Shop at support your local farmers market..!</i>", Just a random "<i>relaxation</i>" activity 😉
