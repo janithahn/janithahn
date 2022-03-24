@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Listen to a new music genre..!</i>", Just a random "<i>music</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Uninstall unused apps from your devices..!</i>", Just a random "<i>busywork</i>" activity 😉
