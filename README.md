@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Take a caffeine nap..!</i>", Just a random "<i>relaxation</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Find a charity and donate to it..!</i>", Just a random "<i>charity</i>" activity 😉
