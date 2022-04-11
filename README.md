@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Learn about the Golden Ratio..!</i>", Just a random "<i>education</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Learn how to french braid hair..!</i>", Just a random "<i>education</i>" activity 😉
