@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Have a bonfire with your close friends..!</i>", Just a random "<i>social</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Fill out a basketball bracket..!</i>", Just a random "<i>recreational</i>" activity 😉
