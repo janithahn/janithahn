@@ -9,7 +9,7 @@
   <img alt="hello" src="https://user-images.githubusercontent.com/64242868/156897817-0594c9f1-9abd-492d-938f-923998413a47.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Thursday !</h2>
+<h2 align="center">Happy Friday !</h2>
 
 <br />
 
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Resolve a problem you've been putting off..!</i>", Just a random "<i>busywork</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Configure two-factor authentication on your accounts..!</i>", Just a random "<i>busywork</i>" activity 😉
