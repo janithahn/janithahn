@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Learn to write with your nondominant hand..!</i>", Just a random "<i>recreational</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Watch a movie you'd never usually watch..!</i>", Just a random "<i>relaxation</i>" activity 😉
