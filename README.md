@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Learn the Chinese erhu..!</i>", Just a random "<i>music</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Try a food you don't like..!</i>", Just a random "<i>recreational</i>" activity 😉
