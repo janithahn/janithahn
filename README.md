@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Learn the NATO phonetic alphabet..!</i>", Just a random "<i>education</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Take a class at your local community center that interests you..!</i>", Just a random "<i>education</i>" activity 😉
