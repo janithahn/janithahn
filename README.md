@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Match your storage containers with their lids..!</i>", Just a random "<i>busywork</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Practice coding in your favorite lanaguage..!</i>", Just a random "<i>recreational</i>" activity 😉
