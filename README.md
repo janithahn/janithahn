@@ -17,7 +17,7 @@
 
 ## I'm Janitha Nawarathna
 
-- 🔭 Undergraduate of B.Sc(Honors) in Computer Science.
+- 🔭 Undergraduate - B.Sc(Honors) in Computer Science.
 - 🧥 Programming enthusiast.
 - 🌱 Currently studying and focused on programming applications.
 - 👯 Looking to collaborate on projects that use languages like Java, JavaScript, Python and frameworks like React, Django, NodeJS etc.
