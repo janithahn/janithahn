@@ -9,7 +9,7 @@
   <img alt="hello" src="https://user-images.githubusercontent.com/64242868/156897817-0594c9f1-9abd-492d-938f-923998413a47.gif" alt="Material Bread logo">
 </p>
 
-<h2 align="center">Happy Monday !</h2>
+<h2 align="center">Happy Day !</h2>
 
 <br />
 
