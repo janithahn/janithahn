@@ -15,7 +15,7 @@ on:
           res.on('end', () => {
             body = JSON.parse(body);
             console.log(body);
-            let message = `You know you could "<i>${body.activity}..!</i>", Just a random "<i>${body.type}</i>"`
+            let message = `You know you could <i>${body.activity}..!</i>, Just a random <i>${body.type}</i>`
             console.log(message);
 
             // Update README
