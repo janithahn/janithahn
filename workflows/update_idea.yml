@@ -24,7 +24,7 @@ on:
 
               const updateActivityMd = data.replace(
                 /(?<=Hey!!😊\.\. )(.*)(?= activity 😉)/gim,
-                toLowerCase(message)
+                message.toLowerCase()
               );
 
               updateString(updateActivityMd);
