@@ -17,11 +17,11 @@
 
 ## I'm Janitha Nawarathna
 
-- 🔭 Undergraduate - B.Sc(Honors) in Computer Science.
+- 🔭 Software Engineer.
 - 🧥 Programming enthusiast.
 - 🌱 Currently studying and focused on programming applications.
-- 👯 Looking to collaborate on projects that use languages like Java, JavaScript, Python and frameworks like React, Django, NodeJS etc.
-- 💬 Ask me about React, Python, Java, JavaScript and Django.
+- 👯 Looking to collaborate on projects that use languages like Java, JavaScript, Python and frameworks like React JS, Spring Boot, NodeJS...
+- 💬 Ask me about Java, Python, JavaScript, React JS, MySQL...
 - 📫 Reach me: [![github](https://img.shields.io/badge/--github?label=Github&logo=Github&style=social)](https://github.com/s16417) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](www.linkedin.com/in/janitha-nawarathna-b98b43103) [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:janithahn@gmail.com)
 
 - 👨‍💻 sciForum: [![DeepScan grade](https://deepscan.io/api/teams/12154/projects/15126/branches/298648/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=12154&pid=15126&bid=298648)
