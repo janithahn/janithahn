@@ -6,7 +6,7 @@
 **s16417/s16417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64242868/156897817-0594c9f1-9abd-492d-938f-923998413a47.gif) -->
 <p align="center">
-  <img alt="hello" src="https://user-images.githubusercontent.com/64242868/156897817-0594c9f1-9abd-492d-938f-923998413a47.gif" alt="Material Bread logo">
+  <img width="250px" alt="hello" src="https://user-images.githubusercontent.com/64242868/194348057-04a1f34c-1585-4ab2-bb96-1a8544e7224f.gif" alt="Material Bread logo">
 </p>
 
 <h2 align="center">Happy Thursday !</h2>
@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. You know you could "<i>Make tie dye shirts..!</i>", Just a random "<i>diy</i>" activity 😉
+### 🎈 Hey!!😊.. You know you could "<i>Catch up with a friend over a lunch date..!</i>", Just a random "<i>social</i>" activity 😉
