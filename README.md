@@ -18,7 +18,7 @@
 ## I'm Janitha Nawarathna
 
 - 🔭 Software Engineer.
-- 🧥 Programming enthusiast.
+- ⌨️ Programming enthusiast.
 - 🌱 Currently studying and focused on programming applications.
 - 👯 Looking to collaborate on projects that use languages like Java, JavaScript, Python and frameworks like React JS, Spring Boot, NodeJS...
 - 💬 Ask me about Java, Python, JavaScript, React JS, MySQL...
