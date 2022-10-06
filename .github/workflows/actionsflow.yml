@@ -42,8 +42,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "${{secret.GLOBAL_EMAIL}}"
-          git config --global user.name "${{secret.GLOBAL_USERNAME}}"
+          git config --global user.email ${{secret.GLOBAL_EMAIL}}
+          git config --global user.name ${{secret.GLOBAL_USERNAME}}
           git add -A
           git commit -m "Updated readme" || exit 0
           git pull --ff-only
