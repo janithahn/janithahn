@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>create a meal plan for the coming week..!</i>, just a random <i>cooking</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>learn how to write in shorthand..!</i>, just a random <i>education</i> activity 😉
