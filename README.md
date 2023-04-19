@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>memorize the fifty states and their capitals..!</i>, just a random <i>education</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>write a thank you letter to an influential person in your life..!</i>, just a random <i>social</i> activity 😉
