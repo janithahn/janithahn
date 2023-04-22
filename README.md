@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>prepare a dish from a foreign culture..!</i>, just a random <i>cooking</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>learn express.js..!</i>, just a random <i>education</i> activity 😉
