@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>have a jam session with your friends..!</i>, just a random <i>music</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>play a game of monopoly..!</i>, just a random <i>social</i> activity 😉
