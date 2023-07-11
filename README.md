@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>learn how to make an alexa skill..!</i>, just a random <i>education</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>learn how to iceskate or rollerskate..!</i>, just a random <i>recreational</i> activity 😉
