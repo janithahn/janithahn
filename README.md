@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>start a family tree..!</i>, just a random <i>social</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>write a handwritten letter to somebody..!</i>, just a random <i>social</i> activity 😉
