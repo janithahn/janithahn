@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>uninstall unused apps from your devices..!</i>, just a random <i>busywork</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>clean out your closet and donate the clothes you've outgrown..!</i>, just a random <i>charity</i> activity 😉
