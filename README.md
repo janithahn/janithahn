@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>draft your living will..!</i>, just a random <i>busywork</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>listen to a new podcast..!</i>, just a random <i>relaxation</i> activity 😉
