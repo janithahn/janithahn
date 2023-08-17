@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>create a compost pile..!</i>, just a random <i>diy</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>shop at support your local farmers market..!</i>, just a random <i>relaxation</i> activity 😉
