@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>color..!</i>, just a random <i>relaxation</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>learn how to use an arduino..!</i>, just a random <i>education</i> activity 😉
