@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>donate blood at a local blood center..!</i>, just a random <i>charity</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>plan a trip to another country..!</i>, just a random <i>recreational</i> activity 😉
