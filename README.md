@@ -28,4 +28,4 @@
 
 - ⚡ Fun fact: I'm updating this readme file with a github workflow!!
 
-### 🎈 Hey!!😊.. you know you could <i>memorize a favorite quote or poem..!</i>, just a random <i>education</i> activity 😉
+### 🎈 Hey!!😊.. you know you could <i>pick up litter around your favorite park..!</i>, just a random <i>charity</i> activity 😉
