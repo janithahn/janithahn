@@ -17,7 +17,7 @@ on:
               body = JSON.parse(body);
             } catch(err) {
               console.log("An error occurred while reading body.");
-              body = '{"body": { "activity": "fix this error", type: "debugging" }}'
+              body = '{"body": { "activity": "fix this error", "type": "debugging" }}'
             }
             body = JSON.parse(body);
             console.log(body);
